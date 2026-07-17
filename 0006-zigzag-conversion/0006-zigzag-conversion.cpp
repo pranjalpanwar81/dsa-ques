@@ -1,0 +1,28 @@
+class Solution {
+public:
+    string convert(string s, int numRows) {
+        if (numRows == 1 || numRows >= s.size()) {
+            return s;
+        }
+
+        vector<string> rows(numRows);
+        int currentRow = 0;
+        bool goingDown = true;
+
+        for (char ch : s) {
+            rows[currentRow] += ch;
+
+            if (currentRow == 0) goingDown = true;
+            if (currentRow == numRows - 1) goingDown = false;
+
+            currentRow += goingDown ? 1 : -1;
+        }
+
+        string result;
+        for (string row : rows) {
+            result += row;
+        }
+
+        return result;
+    }
+};
