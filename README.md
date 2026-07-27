@@ -12,6 +12,7 @@
 | [0007-reverse-integer](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0014-longest-common-prefix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjalpanwar81/dsa-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -62,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjalpanwar81/dsa-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
