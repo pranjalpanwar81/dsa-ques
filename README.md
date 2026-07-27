@@ -37,6 +37,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0014-longest-common-prefix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjalpanwar81/dsa-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjalpanwar81/dsa-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjalpanwar81/dsa-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
