@@ -1,48 +1,42 @@
 class Solution {
 public:
+
+    // Function to expand around the center
+    string expand(string s, int left, int right) {
+
+        while (left >= 0 && right < s.length() &&
+               s[left] == s[right]) {
+
+            left--;
+            right++;
+        }
+
+        // Return the palindrome substring
+        return s.substr(left + 1, right - left - 1);
+    }
+
     string longestPalindrome(string s) {
 
-        int n = s.length();
+        string ans = "";
 
-        if (n <= 1)
-            return s;
-
-        int start = 0;
-        int maxLen = 1;
-
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < s.length(); i++) {
 
             // Odd length palindrome
-            int left = i;
-            int right = i;
-
-            while (left >= 0 && right < n && s[left] == s[right]) {
-
-                if (right - left + 1 > maxLen) {
-                    maxLen = right - left + 1;
-                    start = left;
-                }
-
-                left--;
-                right++;
-            }
+            string odd = expand(s, i, i);
 
             // Even length palindrome
-            left = i;
-            right = i + 1;
+            string even = expand(s, i, i + 1);
 
-            while (left >= 0 && right < n && s[left] == s[right]) {
+            // Update answer
+            if (odd.length() > ans.length()) {
+                ans = odd;
+            }
 
-                if (right - left + 1 > maxLen) {
-                    maxLen = right - left + 1;
-                    start = left;
-                }
-
-                left--;
-                right++;
+            if (even.length() > ans.length()) {
+                ans = even;
             }
         }
 
-        return s.substr(start, maxLen);
+        return ans;
     }
 };
