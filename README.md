@@ -36,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0013-roman-to-integer) |
 ## Sliding Window
