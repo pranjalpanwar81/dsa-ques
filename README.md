@@ -72,4 +72,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjalpanwar81/dsa-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranjalpanwar81/dsa-ques/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
